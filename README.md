@@ -31,5 +31,8 @@ Given patient feature values, the objective is to classify whether a patient has
 3. Ensure the file is in the working directory.
 4. Run all cells sequentially.
 
+## Model Performance
+Accuracy: 87%
+
 ## Author
 Computer Engineering Undergraduate Student
