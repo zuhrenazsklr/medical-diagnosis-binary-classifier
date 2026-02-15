@@ -23,6 +23,7 @@ Given patient feature values, the objective is to classify whether a patient has
 ## Required File
 - The project requires a `.txt` data file.
 - The file must be uploaded manually in Google Colab before running the notebook.
+- The required .txt dataset file is included in this repository.
 
 ## How to Run (Google Colab)
 1. Open the notebook in Google Colab.
